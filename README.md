@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/s3mf02rJTj0AAAAi/working-workaholics.gif" width="100px" height="300px"/>
   
   <div id="badges">
-  <a href="www.linkedin.com/in/ZiyaTheDev">
+  <a href="www.linkedin.com/in/ziyathedev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile"/>
   </a>
 </div>
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Leetcodes and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ZiyaTheDev)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ziyathedev)
 
 ---
 
