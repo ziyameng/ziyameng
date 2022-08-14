@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/s3mf02rJTj0AAAAi/working-workaholics.gif" width="100px" height="300px"/>
+  <img src="https://c.tenor.com/s3mf02rJTj0AAAAi/working-workaholics.gif" width="300px" height="300px"/>
   
   <div id="badges">
   <a href="www.linkedin.com/in/ziyathedev">
