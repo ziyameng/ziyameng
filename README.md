@@ -23,13 +23,17 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Developer and a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- 🦋 I am also working as a Data Scientist with a specialization in data visualization.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcodes and read tech articles.
+
+![image](https://user-images.githubusercontent.com/92579255/221445965-a662ba55-07fa-4db5-a355-e896a79b528b.png)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ziyathedev)
 
