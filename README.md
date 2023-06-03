@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/s3mf02rJTj0AAAAi/working-workaholics.gif" width="300px" height="300px"/>
   
   <div id="badges">
-  <a href="www.linkedin.com/in/ziyathedev">
+  <a href="https://www.linkedin.com/in/ziyathedev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile"/>
   </a>
 </div>
