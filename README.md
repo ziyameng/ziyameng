@@ -35,7 +35,7 @@ I am a Full Stack Developer and a Data Scientist <img src="https://media.giphy.c
 
 ![image](https://user-images.githubusercontent.com/92579255/221445965-a662ba55-07fa-4db5-a355-e896a79b528b.png)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ziyathedev)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziyathedev/)
 
 ---
 
